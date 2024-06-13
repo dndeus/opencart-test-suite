@@ -36,5 +36,7 @@
     },
     "extra" : {
         "src-dir" : "src/upload"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false
 }
