@@ -16,9 +16,9 @@
         "dndeus/opencart-extension-installer" : "*"
     },
     "require-dev" : {
-        "opencart/opencart" : "3.0.2.0",
+        "opencart/opencart" : "3.0.3.8",
         "consolidation/robo" : "^1.1",
-        "vlucas/phpdotenv" : "^2.4",
+        "vlucas/phpdotenv" : "^5.3",
         "squizlabs/php_codesniffer": "^3.0"
     },
     "autoload" : {
